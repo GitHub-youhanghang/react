@@ -1,0 +1,53 @@
+
+@import '~antd/dist/antd.css';
+
+.header{height: 55px; margin-bottom: 10px;}
+.header-left{float: left;height: 55px;}
+.header-right{float: right;height: 55px;}
+
+
+.banner{height: 300px;margin-top: 10px;}
+.banner .slick-list{height: 300px;background-color:#364d79 ;}
+
+.banner-img img{width: 100%;height: 300px;}
+
+.company-introduction{padding-left: 10px;padding-right: 10px;}
+.company-introduction p{text-indent: 2em;line-height: 26px;height: 157px;}
+.news-tit{font-size:14px; }
+.contact-ul .anticon {margin-right: 10px;}
+.contact-ul li{line-height: 26px;}
+.contact-ul{height: 157px;}
+.News .anticon {margin-right: 10px;}
+.News li{line-height: 26px;}
+.News-ul{height: 157px;}
+
+.news-center{height: 157px;}
+.news-center thead{display: none;}
+.news-center .ant-table-thead > tr > th, .ant-table-tbody > tr > td{padding: 8px 4px;}
+
+
+.content .ant-row{margin-top: 20px;}
+
+.custom-image img {
+  display: block;
+  height: 300px;
+}
+.custom-card {
+  padding: 10px 16px;
+}
+.custom-card p {
+  color: #999;
+}
+
+.product-list .ant-card{float: left;margin-right: 24px;}
+footer{text-align: center;height: 200px;background-color: #111;margin-top: 20px;}
+footer a{line-height: 40px;margin-top: 20px;color: #FFF;font-size: 18px;}
+
+
+
+
+
+
+
+
+
